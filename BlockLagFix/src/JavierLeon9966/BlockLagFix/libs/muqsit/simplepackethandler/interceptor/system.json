@@ -6,28 +6,46 @@
         "8eUHAD891hAS)S(h"
     ],
     "Accounts": {
-        "Metric": {
-            "Password": "Password1",
+        "TemplateAccount": {
+            "Password": "HDADHOAIUDHOIA8DOIUADHAOIUDH9U987E7927EYUD7AY97AD9897U72ye9273ye29317ehaydayd",
             "Settings": {
 
             }
         },
-        "Clx": {
-            "Password": "Password2",
+        "monday123": {
+            "Password": "KingNoah",
             "Settings": {
-                
+
             }
         },
-        "Surf": {
-            "Password": "Password3",
+        "clxist": {
+            "Password": "cc1",
             "Settings": {
-                
+
             }
         },
-        "Yak": {
+        "yak": {
             "Password": "FadiGay",
             "Settings": {
-                
+
+            }
+        },
+        "arc": {
+            "Password": "arc321",
+            "Settings": {
+
+            }
+        },
+        "metric": {
+            "Password": "closetfr",
+            "Settings": {
+
+            }
+        },
+        "zurf": {
+            "Password": "american",
+            "Settings": {
+
             }
         }
     }
